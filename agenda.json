@@ -18,6 +18,16 @@
   "miniatura": "midia/miniaturas/post01.jpg"
  },
  {
+  "id": "storypost01",
+  "tipo": "STORY",
+  "quando": "2026-10-12T14:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post01.jpg"
+  ],
+  "titulo": "Post novo: E se a Terra parasse de girar?",
+  "miniatura": "midia/miniaturas/storypost01.jpg"
+ },
+ {
   "id": "post02",
   "tipo": "CARROSSEL",
   "quando": "2026-10-12T15:00:00-03:00",
@@ -34,6 +44,16 @@
   "legenda": "Você bocejou só de ler a palavra \"bocejo\"? 🥱\n\n👀 Ver, ouvir ou até imaginar alguém bocejando ativa áreas do cérebro ligadas à imitação.\n💛 A gente pega mais o bocejo de família e amigos do que de estranhos.\n🐶 Até os cachorros pegam bocejo dos donos.\n\n📌 Dado real: bebês quase não pegam bocejo. Isso só começa por volta dos 4 anos (estudo da Universidade de Connecticut, 2010).\n\nConfessa: você bocejou lendo este post? A (sim) ou B (resisti)? 👇\n\n💾 Salva este post e manda para alguém curioso.\n\n#bocejo #cerebro #ciencia #curiosidades #vocesabia #curiosidadesempapel",
   "titulo": "Por que o bocejo é contagioso?",
   "miniatura": "midia/miniaturas/post02.jpg"
+ },
+ {
+  "id": "storypost02",
+  "tipo": "STORY",
+  "quando": "2026-10-12T15:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post02.jpg"
+  ],
+  "titulo": "Post novo: Por que o bocejo é contagioso?",
+  "miniatura": "midia/miniaturas/storypost02.jpg"
  },
  {
   "id": "post03",
@@ -54,6 +74,16 @@
   "miniatura": "midia/miniaturas/post03.jpg"
  },
  {
+  "id": "storypost03",
+  "tipo": "STORY",
+  "quando": "2026-10-12T16:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post03.jpg"
+  ],
+  "titulo": "Post novo: Dá pra cavar um buraco até o Japão?",
+  "miniatura": "midia/miniaturas/storypost03.jpg"
+ },
+ {
   "id": "post04",
   "tipo": "CARROSSEL",
   "quando": "2026-10-12T17:00:00-03:00",
@@ -70,6 +100,16 @@
   "legenda": "E se você acordasse amanhã em 1850? 🎩\n\n🕯️ Nada de luz elétrica: a noite era iluminada por velas e lampiões.\n🥖 Nada de geladeira: comida salgada, defumada ou comprada no dia.\n✉️ Uma carta da Europa levava semanas para chegar, de navio.\n👑 E o Brasil era um império, com D. Pedro II.\n\n📌 Dado real: o telégrafo só começou a funcionar no Brasil em 1852. E a anestesia em cirurgias tinha acabado de surgir, em 1846.\n\nDo que você sentiria mais falta: A (chuveiro quente) ou B (celular)? 👇\n\n💾 Salva este post e manda para alguém curioso.\n\n#historia #brasil #curiosidadeshistoricas #curiosidades #vocesabia #curiosidadesempapel",
   "titulo": "E se você acordasse em 1850?",
   "miniatura": "midia/miniaturas/post04.jpg"
+ },
+ {
+  "id": "storypost04",
+  "tipo": "STORY",
+  "quando": "2026-10-12T17:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post04.jpg"
+  ],
+  "titulo": "Post novo: E se você acordasse em 1850?",
+  "miniatura": "midia/miniaturas/storypost04.jpg"
  },
  {
   "id": "post05",
@@ -90,6 +130,16 @@
   "miniatura": "midia/miniaturas/post05.jpg"
  },
  {
+  "id": "storypost05",
+  "tipo": "STORY",
+  "quando": "2026-10-12T18:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post05.jpg"
+  ],
+  "titulo": "Post novo: 100 pessoas contra 1 gorila: quem ganha?",
+  "miniatura": "midia/miniaturas/storypost05.jpg"
+ },
+ {
   "id": "post06",
   "tipo": "CARROSSEL",
   "quando": "2026-10-12T19:00:00-03:00",
@@ -106,6 +156,16 @@
   "legenda": "Como seria o Brasil se os holandeses tivessem ficado? 🇧🇷\n\n⛵ Em 1630, os holandeses tomaram Recife e Olinda e ficaram 24 anos no Nordeste.\n🌉 Com Maurício de Nassau, Recife ganhou a primeira grande ponte do Brasil.\n🎨 Pintores vieram junto e fizeram algumas das primeiras pinturas de paisagens do país.\n🚪 Em 1654, eles foram expulsos.\n\n📌 Dado real: o Suriname, que foi colônia holandesa, tem o holandês como língua oficial até hoje.\n\nVocê acha que o Brasil seria A (muito diferente) ou B (quase igual)? 👇\n\n💾 Salva este post e manda para alguém curioso.\n\n#historia #brasil #recife #curiosidades #vocesabia #curiosidadesempapel",
   "titulo": "Como seria o Brasil se os holandeses tivessem ficado?",
   "miniatura": "midia/miniaturas/post06.jpg"
+ },
+ {
+  "id": "storypost06",
+  "tipo": "STORY",
+  "quando": "2026-10-12T19:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post06.jpg"
+  ],
+  "titulo": "Post novo: Como seria o Brasil se os holandeses tivessem ficado?",
+  "miniatura": "midia/miniaturas/storypost06.jpg"
  },
  {
   "id": "post07",
@@ -139,6 +199,16 @@
   "miniatura": "midia/miniaturas/post01.jpg"
  },
  {
+  "id": "storypost07",
+  "tipo": "STORY",
+  "quando": "2026-10-12T20:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post07.jpg"
+  ],
+  "titulo": "Post novo: Nunca mais sentir frio ou nunca mais sentir sono?",
+  "miniatura": "midia/miniaturas/storypost07.jpg"
+ },
+ {
   "id": "post08",
   "tipo": "CARROSSEL",
   "quando": "2026-10-12T21:00:00-03:00",
@@ -167,6 +237,16 @@
   "miniatura": "midia/miniaturas/story2026-10-12.jpg"
  },
  {
+  "id": "storypost08",
+  "tipo": "STORY",
+  "quando": "2026-10-12T21:40:00-03:00",
+  "midia": [
+   "midia/stories/story_post08.jpg"
+  ],
+  "titulo": "Post novo: E se a Lua sumisse?",
+  "miniatura": "midia/miniaturas/storypost08.jpg"
+ },
+ {
   "id": "post09",
   "tipo": "CARROSSEL",
   "quando": "2026-10-13T12:00:00-03:00",
@@ -183,6 +263,16 @@
   "legenda": "Por que os dedos ficam enrugados na água? 🛁\n\n💧 Não é a pele \"inchando de água\".\n🧠 Depois de alguns minutos, o sistema nervoso faz os vasos da ponta dos dedos se fecharem, e a pele afunda.\n🩺 Quem tem lesão no nervo de um dedo não fica com ele enrugado. Médicos já usam isso como teste.\n\n📌 Dado real: num estudo de 2013 da Universidade de Newcastle, quem estava com os dedos enrugados moveu objetos molhados mais rápido.\n\nVocê sabia que era coisa dos nervos? A (sabia) ou B (não fazia ideia)? 👇\n\n💾 Salva este post e manda para alguém curioso.\n\n#corpohumano #ciencia #sabiaque #curiosidades #vocesabia #curiosidadesempapel",
   "titulo": "Por que os dedos enrugam na água?",
   "miniatura": "midia/miniaturas/post09.jpg"
+ },
+ {
+  "id": "storypost09",
+  "tipo": "STORY",
+  "quando": "2026-10-13T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post09.jpg"
+  ],
+  "titulo": "Post novo: Por que os dedos enrugam na água?",
+  "miniatura": "midia/miniaturas/storypost09.jpg"
  },
  {
   "id": "reel02",
@@ -228,7 +318,7 @@
  {
   "id": "reel03",
   "tipo": "REEL",
-  "quando": "2026-10-14T20:00:00-03:00",
+  "quando": "2026-10-14T15:00:00-03:00",
   "midia": [
    "midia/post03/reel.mp4"
   ],
@@ -237,6 +327,29 @@
   "capa_ms": 500,
   "titulo": "Dá pra cavar um buraco até o Japão?",
   "miniatura": "midia/miniaturas/post03.jpg"
+ },
+ {
+  "id": "storypost10",
+  "tipo": "STORY",
+  "quando": "2026-10-14T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post10.jpg"
+  ],
+  "titulo": "Post novo: Dá pra fritar um ovo no asfalto?",
+  "miniatura": "midia/miniaturas/storypost10.jpg"
+ },
+ {
+  "id": "reel09",
+  "tipo": "REEL",
+  "quando": "2026-10-14T20:00:00-03:00",
+  "midia": [
+   "midia/post09/reel.mp4"
+  ],
+  "legenda": "Por que os dedos ficam enrugados na água? 🛁\n\nNão é a água entrando na pele. É o seu cérebro mandando.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#corpohumano #ciencia #sabiaque #curiosidades #vocesabia #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Por que os dedos enrugam na água?",
+  "miniatura": "midia/miniaturas/post09.jpg"
  },
  {
   "id": "story2026-10-14",
@@ -269,7 +382,7 @@
  {
   "id": "reel04",
   "tipo": "REEL",
-  "quando": "2026-10-15T20:00:00-03:00",
+  "quando": "2026-10-15T15:00:00-03:00",
   "midia": [
    "midia/post04/reel.mp4"
   ],
@@ -278,6 +391,29 @@
   "capa_ms": 500,
   "titulo": "E se você acordasse em 1850?",
   "miniatura": "midia/miniaturas/post04.jpg"
+ },
+ {
+  "id": "storypost11",
+  "tipo": "STORY",
+  "quando": "2026-10-15T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post11.jpg"
+  ],
+  "titulo": "Post novo: E se você ficasse invisível por um dia?",
+  "miniatura": "midia/miniaturas/storypost11.jpg"
+ },
+ {
+  "id": "reel10",
+  "tipo": "REEL",
+  "quando": "2026-10-15T20:00:00-03:00",
+  "midia": [
+   "midia/post10/reel.mp4"
+  ],
+  "legenda": "Dá pra fritar um ovo no asfalto? 🍳☀️\n\nO asfalto passa de 60 °C. Mas tem um detalhe que estraga tudo.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#calor #ciencia #experimento #curiosidades #vocesabia #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Dá pra fritar um ovo no asfalto?",
+  "miniatura": "midia/miniaturas/post10.jpg"
  },
  {
   "id": "story2026-10-15",
@@ -310,7 +446,7 @@
  {
   "id": "reel05",
   "tipo": "REEL",
-  "quando": "2026-10-16T20:00:00-03:00",
+  "quando": "2026-10-16T15:00:00-03:00",
   "midia": [
    "midia/post05/reel.mp4"
   ],
@@ -319,6 +455,29 @@
   "capa_ms": 500,
   "titulo": "100 pessoas contra 1 gorila: quem ganha?",
   "miniatura": "midia/miniaturas/post05.jpg"
+ },
+ {
+  "id": "storypost12",
+  "tipo": "STORY",
+  "quando": "2026-10-16T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post12.jpg"
+  ],
+  "titulo": "Post novo: Onça-pintada contra leão: quem ganha?",
+  "miniatura": "midia/miniaturas/storypost12.jpg"
+ },
+ {
+  "id": "reel11",
+  "tipo": "REEL",
+  "quando": "2026-10-16T20:00:00-03:00",
+  "midia": [
+   "midia/post11/reel.mp4"
+  ],
+  "legenda": "E se você ficasse invisível por um dia? 👻\n\nFicar invisível tem um efeito colateral que os filmes não contam.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#ciencia #optica #superpoderes #curiosidades #vocesabia #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "E se você ficasse invisível por um dia?",
+  "miniatura": "midia/miniaturas/post11.jpg"
  },
  {
   "id": "story2026-10-16",
@@ -351,7 +510,7 @@
  {
   "id": "reel06",
   "tipo": "REEL",
-  "quando": "2026-10-17T20:00:00-03:00",
+  "quando": "2026-10-17T15:00:00-03:00",
   "midia": [
    "midia/post06/reel.mp4"
   ],
@@ -360,6 +519,29 @@
   "capa_ms": 500,
   "titulo": "Como seria o Brasil se os holandeses tivessem ficado?",
   "miniatura": "midia/miniaturas/post06.jpg"
+ },
+ {
+  "id": "storypost13",
+  "tipo": "STORY",
+  "quando": "2026-10-17T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post13.jpg"
+  ],
+  "titulo": "Post novo: Como seria morar em Marte?",
+  "miniatura": "midia/miniaturas/storypost13.jpg"
+ },
+ {
+  "id": "reel12",
+  "tipo": "REEL",
+  "quando": "2026-10-17T20:00:00-03:00",
+  "midia": [
+   "midia/post12/reel.mp4"
+  ],
+  "legenda": "Onça-pintada contra leão: quem ganha? 🐆🦁\n\nUm é maior. O outro tem uma arma secreta.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#animais #oncapintada #natureza #curiosidades #vocesabia #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Onça-pintada contra leão: quem ganha?",
+  "miniatura": "midia/miniaturas/post12.jpg"
  },
  {
   "id": "story2026-10-17",
@@ -392,7 +574,7 @@
  {
   "id": "reel07",
   "tipo": "REEL",
-  "quando": "2026-10-18T20:00:00-03:00",
+  "quando": "2026-10-18T15:00:00-03:00",
   "midia": [
    "midia/post07/reel.mp4"
   ],
@@ -401,6 +583,29 @@
   "capa_ms": 500,
   "titulo": "Nunca mais sentir frio ou nunca mais sentir sono?",
   "miniatura": "midia/miniaturas/post07.jpg"
+ },
+ {
+  "id": "storypost14",
+  "tipo": "STORY",
+  "quando": "2026-10-18T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post14.jpg"
+  ],
+  "titulo": "Post novo: Você prefere voar ou ficar invisível?",
+  "miniatura": "midia/miniaturas/storypost14.jpg"
+ },
+ {
+  "id": "reel13",
+  "tipo": "REEL",
+  "quando": "2026-10-18T20:00:00-03:00",
+  "midia": [
+   "midia/post13/reel.mp4"
+  ],
+  "legenda": "Como seria morar em Marte? 🚀\n\nLá, você pesaria menos da metade e veria um pôr do sol azul.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#marte #espaco #nasa #curiosidades #vocesabia #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Como seria morar em Marte?",
+  "miniatura": "midia/miniaturas/post13.jpg"
  },
  {
   "id": "story2026-10-18",
@@ -415,7 +620,7 @@
  {
   "id": "reel08",
   "tipo": "REEL",
-  "quando": "2026-10-19T20:00:00-03:00",
+  "quando": "2026-10-19T15:00:00-03:00",
   "midia": [
    "midia/post08/reel.mp4"
   ],
@@ -426,74 +631,9 @@
   "miniatura": "midia/miniaturas/post08.jpg"
  },
  {
-  "id": "reel09",
-  "tipo": "REEL",
-  "quando": "2026-10-20T20:00:00-03:00",
-  "midia": [
-   "midia/post09/reel.mp4"
-  ],
-  "legenda": "Por que os dedos ficam enrugados na água? 🛁\n\nNão é a água entrando na pele. É o seu cérebro mandando.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#corpohumano #ciencia #sabiaque #curiosidades #vocesabia #curiosidadesempapel",
-  "na_grade": false,
-  "capa_ms": 500,
-  "titulo": "Por que os dedos enrugam na água?",
-  "miniatura": "midia/miniaturas/post09.jpg"
- },
- {
-  "id": "reel10",
-  "tipo": "REEL",
-  "quando": "2026-10-21T20:00:00-03:00",
-  "midia": [
-   "midia/post10/reel.mp4"
-  ],
-  "legenda": "Dá pra fritar um ovo no asfalto? 🍳☀️\n\nO asfalto passa de 60 °C. Mas tem um detalhe que estraga tudo.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#calor #ciencia #experimento #curiosidades #vocesabia #curiosidadesempapel",
-  "na_grade": false,
-  "capa_ms": 500,
-  "titulo": "Dá pra fritar um ovo no asfalto?",
-  "miniatura": "midia/miniaturas/post10.jpg"
- },
- {
-  "id": "reel11",
-  "tipo": "REEL",
-  "quando": "2026-10-22T20:00:00-03:00",
-  "midia": [
-   "midia/post11/reel.mp4"
-  ],
-  "legenda": "E se você ficasse invisível por um dia? 👻\n\nFicar invisível tem um efeito colateral que os filmes não contam.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#ciencia #optica #superpoderes #curiosidades #vocesabia #curiosidadesempapel",
-  "na_grade": false,
-  "capa_ms": 500,
-  "titulo": "E se você ficasse invisível por um dia?",
-  "miniatura": "midia/miniaturas/post11.jpg"
- },
- {
-  "id": "reel12",
-  "tipo": "REEL",
-  "quando": "2026-10-23T20:00:00-03:00",
-  "midia": [
-   "midia/post12/reel.mp4"
-  ],
-  "legenda": "Onça-pintada contra leão: quem ganha? 🐆🦁\n\nUm é maior. O outro tem uma arma secreta.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#animais #oncapintada #natureza #curiosidades #vocesabia #curiosidadesempapel",
-  "na_grade": false,
-  "capa_ms": 500,
-  "titulo": "Onça-pintada contra leão: quem ganha?",
-  "miniatura": "midia/miniaturas/post12.jpg"
- },
- {
-  "id": "reel13",
-  "tipo": "REEL",
-  "quando": "2026-10-24T20:00:00-03:00",
-  "midia": [
-   "midia/post13/reel.mp4"
-  ],
-  "legenda": "Como seria morar em Marte? 🚀\n\nLá, você pesaria menos da metade e veria um pôr do sol azul.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#marte #espaco #nasa #curiosidades #vocesabia #curiosidadesempapel",
-  "na_grade": false,
-  "capa_ms": 500,
-  "titulo": "Como seria morar em Marte?",
-  "miniatura": "midia/miniaturas/post13.jpg"
- },
- {
   "id": "reel14",
   "tipo": "REEL",
-  "quando": "2026-10-25T20:00:00-03:00",
+  "quando": "2026-10-19T20:00:00-03:00",
   "midia": [
    "midia/post14/reel.mp4"
   ],
