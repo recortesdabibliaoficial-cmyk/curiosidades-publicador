@@ -318,6 +318,17 @@
   "destaque": "Verdade ou mito"
  },
  {
+  "id": "comeceaqui2",
+  "tipo": "STORY",
+  "quando": "2026-10-13T22:30:00-03:00",
+  "midia": [
+   "midia/stories/story_comece_aqui_2.jpg"
+  ],
+  "titulo": "Como funciona (2ª versão do Comece aqui)",
+  "miniatura": "midia/miniaturas/comeceaqui2.jpg",
+  "destaque": "Comece aqui"
+ },
+ {
   "id": "post10",
   "tipo": "CARROSSEL",
   "quando": "2026-10-14T12:00:00-03:00",
