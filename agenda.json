@@ -7,7 +7,8 @@
    "midia/stories/story_comece_aqui.jpg"
   ],
   "titulo": "Comece aqui (para o destaque)",
-  "miniatura": "midia/miniaturas/comeceaqui.jpg"
+  "miniatura": "midia/miniaturas/comeceaqui.jpg",
+  "destaque": "Comece aqui"
  },
  {
   "id": "post01",
@@ -35,7 +36,8 @@
    "midia/stories/story_post01.jpg"
   ],
   "titulo": "Post novo: E se a Terra parasse de girar?",
-  "miniatura": "midia/miniaturas/storypost01.jpg"
+  "miniatura": "midia/miniaturas/storypost01.jpg",
+  "destaque": "E se"
  },
  {
   "id": "post02",
@@ -63,7 +65,8 @@
    "midia/stories/story_post02.jpg"
   ],
   "titulo": "Post novo: Por que o bocejo é contagioso?",
-  "miniatura": "midia/miniaturas/storypost02.jpg"
+  "miniatura": "midia/miniaturas/storypost02.jpg",
+  "destaque": "Por que"
  },
  {
   "id": "post03",
@@ -91,7 +94,8 @@
    "midia/stories/story_post03.jpg"
   ],
   "titulo": "Post novo: Dá pra cavar um buraco até o Japão?",
-  "miniatura": "midia/miniaturas/storypost03.jpg"
+  "miniatura": "midia/miniaturas/storypost03.jpg",
+  "destaque": "Dá pra"
  },
  {
   "id": "post04",
@@ -119,7 +123,8 @@
    "midia/stories/story_post04.jpg"
   ],
   "titulo": "Post novo: E se você acordasse em 1850?",
-  "miniatura": "midia/miniaturas/storypost04.jpg"
+  "miniatura": "midia/miniaturas/storypost04.jpg",
+  "destaque": "E se"
  },
  {
   "id": "post05",
@@ -147,7 +152,8 @@
    "midia/stories/story_post05.jpg"
   ],
   "titulo": "Post novo: 100 pessoas contra 1 gorila: quem ganha?",
-  "miniatura": "midia/miniaturas/storypost05.jpg"
+  "miniatura": "midia/miniaturas/storypost05.jpg",
+  "destaque": "Quem ganha"
  },
  {
   "id": "post06",
@@ -244,7 +250,8 @@
    "midia/stories/story_2026-10-12.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-12.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-12.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "storypost08",
@@ -254,7 +261,8 @@
    "midia/stories/story_post08.jpg"
   ],
   "titulo": "Post novo: E se a Lua sumisse?",
-  "miniatura": "midia/miniaturas/storypost08.jpg"
+  "miniatura": "midia/miniaturas/storypost08.jpg",
+  "destaque": "E se"
  },
  {
   "id": "post09",
@@ -282,7 +290,8 @@
    "midia/stories/story_post09.jpg"
   ],
   "titulo": "Post novo: Por que os dedos enrugam na água?",
-  "miniatura": "midia/miniaturas/storypost09.jpg"
+  "miniatura": "midia/miniaturas/storypost09.jpg",
+  "destaque": "Por que"
  },
  {
   "id": "reel02",
@@ -305,7 +314,8 @@
    "midia/stories/story_2026-10-13.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-13.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-13.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "post10",
@@ -346,7 +356,8 @@
    "midia/stories/story_post10.jpg"
   ],
   "titulo": "Post novo: Dá pra fritar um ovo no asfalto?",
-  "miniatura": "midia/miniaturas/storypost10.jpg"
+  "miniatura": "midia/miniaturas/storypost10.jpg",
+  "destaque": "Dá pra"
  },
  {
   "id": "reel09",
@@ -369,7 +380,8 @@
    "midia/stories/story_2026-10-14.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-14.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-14.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "post11",
@@ -410,7 +422,8 @@
    "midia/stories/story_post11.jpg"
   ],
   "titulo": "Post novo: E se você ficasse invisível por um dia?",
-  "miniatura": "midia/miniaturas/storypost11.jpg"
+  "miniatura": "midia/miniaturas/storypost11.jpg",
+  "destaque": "E se"
  },
  {
   "id": "reel10",
@@ -433,7 +446,8 @@
    "midia/stories/story_2026-10-15.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-15.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-15.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "post12",
@@ -474,7 +488,8 @@
    "midia/stories/story_post12.jpg"
   ],
   "titulo": "Post novo: Onça-pintada contra leão: quem ganha?",
-  "miniatura": "midia/miniaturas/storypost12.jpg"
+  "miniatura": "midia/miniaturas/storypost12.jpg",
+  "destaque": "Quem ganha"
  },
  {
   "id": "reel11",
@@ -497,7 +512,8 @@
    "midia/stories/story_2026-10-16.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-16.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-16.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "post13",
@@ -561,7 +577,8 @@
    "midia/stories/story_2026-10-17.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-17.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-17.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "post14",
@@ -625,7 +642,8 @@
    "midia/stories/story_2026-10-18.jpg"
   ],
   "titulo": "Verdade ou mito?",
-  "miniatura": "midia/miniaturas/story2026-10-18.jpg"
+  "miniatura": "midia/miniaturas/story2026-10-18.jpg",
+  "destaque": "Verdade ou mito"
  },
  {
   "id": "reel08",
