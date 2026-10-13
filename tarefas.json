@@ -20,43 +20,62 @@
    {
     "h": "hipotese.geral",
     "sobre": "perfil \"E se?\" brasileiro, nossa referência (17 mil)",
-    "dica": "acrescente uma consequência ou um dado que o post não citou"
-   },
-   {
-    "h": "mundoestranho",
-    "sobre": "Revista Mundo Estranho (69 mil)",
-    "dica": "responda à curiosidade do post com um \"e se\" seu"
-   },
-   {
-    "h": "universoracionalista",
-    "sobre": "divulgação científica (44 mil)",
-    "dica": "comente o dado que mais te surpreendeu e por quê"
-   },
-   {
-    "h": "cafe.comciencia",
-    "sobre": "ciência ilustrada e acessível (2,2 mil)",
-    "dica": "elogie a explicação e faça uma pergunta sobre o tema"
-   },
-   {
-    "h": "nuncavi1cientista",
-    "sobre": "divulgação científica (1 milhão)",
-    "dica": "comente um ponto específico do vídeo ou carrossel"
-   },
-   {
-    "h": "revistagalileu",
-    "sobre": "Revista Galileu (432 mil)",
-    "dica": "conte uma curiosidade ligada à notícia do post"
+    "dica": "acrescente uma consequência ou um \"e se\" a mais"
    },
    {
     "h": "manualdomundo",
     "sobre": "experimentos e ciência (3 milhões)",
-    "dica": "comente o experimento ou sugira uma variação"
+    "dica": "explique a ciência por trás do experimento ou sugira uma variação"
+   },
+   {
+    "h": "nuncavi1cientista",
+    "sobre": "divulgação científica (1 milhão)",
+    "dica": "comente um ponto específico do vídeo"
+   },
+   {
+    "h": "cafe.comciencia",
+    "sobre": "ciência ilustrada e acessível (2,2 mil)",
+    "dica": "acrescente uma curiosidade sobre o tema"
+   },
+   {
+    "h": "universoracionalista",
+    "sobre": "divulgação científica (44 mil)",
+    "dica": "comente o dado que mais te surpreendeu"
    },
    {
     "h": "curiosidades",
     "sobre": "curiosidades gerais (378 mil)",
     "dica": "responda com uma curiosidade relacionada, de fonte confiável"
+   },
+   {
+    "h": "revistagalileu",
+    "sobre": "Revista Galileu (432 mil)",
+    "dica": "comente só quando o post for de ciência"
    }
-  ]
+  ],
+  "prontos": {
+   "2026-10-13": [
+    {
+     "h": "hipotese.geral",
+     "link": "https://www.instagram.com/reel/Debh0BWPo_z/",
+     "comentario": "E se ele já tivesse aprendido a fazer o próprio pão de queijo e aberto uma padaria? Fila de turista na porta e o \"uai\" virando a primeira palavra alienígena registrada em cartório 😂🛸"
+    },
+    {
+     "h": "manualdomundo",
+     "link": "https://www.instagram.com/reel/DeaDTKaFPpL/",
+     "comentario": "Se for daquelas toalhas de PVA, o segredo está nos poros minúsculos: eles puxam a água por capilaridade, como uma esponja. Por isso ficam duras quando secam e molinhas quando molhadas. Experimento muito bom!"
+    },
+    {
+     "h": "nuncavi1cientista",
+     "link": "https://www.instagram.com/reel/DeP2EPeyDrW/",
+     "comentario": "Informação importante e muito bem explicada. Muita gente usa o remédio sem acompanhamento, e o exame de retina periódico é o tipo de cuidado que quase ninguém comenta. Obrigado por trazer a orientação das entidades médicas."
+    },
+    {
+     "h": "cafe.comciencia",
+     "link": "https://www.instagram.com/reel/DeZE3OLxc_C/",
+     "comentario": "Um exemplo que sempre me surpreende: o bebê nasce com cerca de 270 a 300 ossos, e muitos vão se fundindo até chegar aos 206 do adulto. Crescer é, literalmente, se remontar! 🦴"
+    }
+   ]
+  }
  }
 ]
