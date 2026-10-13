@@ -10,5 +10,53 @@
   "detalhe": "No destaque Comece aqui ficam as duas versões (\"Comece aqui\" e \"Como funciona\"). Para ele voltar ao primeiro lugar: segure o destaque → Editar destaque → aba Stories → desmarque uma versão e marque a outra de novo (alternando) → Concluir. Não publica nada. Volta a aparecer a cada 15 dias.",
   "cada_dias": 15,
   "desde": "2026-10-12T00:00:00-03:00"
+ },
+ {
+  "id": "engaj",
+  "tipo": "engajamento",
+  "por_dia": 4,
+  "desde": "2026-10-13T00:00:00-03:00",
+  "perfis": [
+   {
+    "h": "hipotese.geral",
+    "sobre": "perfil \"E se?\" brasileiro, nossa referência (17 mil)",
+    "dica": "acrescente uma consequência ou um dado que o post não citou"
+   },
+   {
+    "h": "mundoestranho",
+    "sobre": "Revista Mundo Estranho (69 mil)",
+    "dica": "responda à curiosidade do post com um \"e se\" seu"
+   },
+   {
+    "h": "universoracionalista",
+    "sobre": "divulgação científica (44 mil)",
+    "dica": "comente o dado que mais te surpreendeu e por quê"
+   },
+   {
+    "h": "cafe.comciencia",
+    "sobre": "ciência ilustrada e acessível (2,2 mil)",
+    "dica": "elogie a explicação e faça uma pergunta sobre o tema"
+   },
+   {
+    "h": "nuncavi1cientista",
+    "sobre": "divulgação científica (1 milhão)",
+    "dica": "comente um ponto específico do vídeo ou carrossel"
+   },
+   {
+    "h": "revistagalileu",
+    "sobre": "Revista Galileu (432 mil)",
+    "dica": "conte uma curiosidade ligada à notícia do post"
+   },
+   {
+    "h": "manualdomundo",
+    "sobre": "experimentos e ciência (3 milhões)",
+    "dica": "comente o experimento ou sugira uma variação"
+   },
+   {
+    "h": "curiosidades",
+    "sobre": "curiosidades gerais (378 mil)",
+    "dica": "responda com uma curiosidade relacionada, de fonte confiável"
+   }
+  ]
  }
 ]
