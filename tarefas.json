@@ -14,7 +14,6 @@
  {
   "id": "engaj",
   "tipo": "engajamento",
-  "por_dia": 4,
   "desde": "2026-10-13T00:00:00-03:00",
   "perfis": [
    {
@@ -51,6 +50,21 @@
     "h": "revistagalileu",
     "sobre": "Revista Galileu (432 mil)",
     "dica": "comente só quando o post for de ciência"
+   },
+   {
+    "h": "natgeobrasil",
+    "sobre": "National Geographic Brasil (652 mil)",
+    "dica": "acrescente um dado ou pergunta sobre o tema da foto"
+   },
+   {
+    "h": "revistasuper",
+    "sobre": "Superinteressante (1 milhão)",
+    "dica": "responda à curiosidade com um \"e se\" seu"
+   },
+   {
+    "h": "olhardigital",
+    "sobre": "ciência e tecnologia (592 mil)",
+    "dica": "comente só posts de ciência e espaço, com um dado a mais"
    }
   ],
   "prontos": {
@@ -76,6 +90,8 @@
      "comentario": "Um exemplo que sempre me surpreende: o bebê nasce com cerca de 270 a 300 ossos, e muitos vão se fundindo até chegar aos 206 do adulto. Crescer é, literalmente, se remontar! 🦴"
     }
    ]
-  }
+  },
+  "comentarios_por_dia": 10,
+  "seguir_por_dia": 5
  }
 ]
