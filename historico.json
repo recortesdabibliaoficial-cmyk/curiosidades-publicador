@@ -225,5 +225,231 @@
    }
   },
   "em": "2026-10-14T20:04-03:00"
+ },
+ "2026-10-15": {
+  "seguidores": 5,
+  "publicacoes": 10,
+  "itens": {
+   "comeceaqui": {
+    "reach": 0,
+    "views": 0,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post01": {
+    "reach": 0,
+    "views": 1,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
+   },
+   "storypost01": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post02": {
+    "reach": 0,
+    "views": 1,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
+   },
+   "storypost02": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post03": {
+    "reach": 0,
+    "views": 1,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
+   },
+   "post04": {
+    "reach": 0,
+    "views": 1,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "storypost04": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post05": {
+    "reach": 1,
+    "views": 2,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "storypost05": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post06": {
+    "reach": 2,
+    "views": 3,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "storypost06": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post07": {
+    "reach": 2,
+    "views": 4,
+    "likes": 2,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "reel01": {
+    "reach": 0,
+    "views": 2,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 23082
+   },
+   "storypost07": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post08": {
+    "reach": 2,
+    "views": 5,
+    "likes": 3,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 3
+   },
+   "story2026-10-12": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "storypost08": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "storypost09": {
+    "reach": 0,
+    "views": 4,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel02": {
+    "reach": 19,
+    "views": 25,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 6934
+   },
+   "story2026-10-13": {
+    "reach": 0,
+    "views": 3,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "comeceaqui2": {
+    "reach": 0,
+    "views": 4,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "post10": {
+    "reach": 4,
+    "views": 7,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "reel03": {
+    "reach": 55,
+    "views": 60,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 9160
+   },
+   "storypost10": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel09": {
+    "reach": 36,
+    "views": 41,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 3789
+   },
+   "story2026-10-14": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   }
+  },
+  "em": "2026-10-15T02:50-03:00"
  }
 }
