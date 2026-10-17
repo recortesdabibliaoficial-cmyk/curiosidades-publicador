@@ -503,7 +503,7 @@
   }
  },
  "2026-10-16": {
-  "seguidores": 8,
+  "seguidores": 9,
   "publicacoes": 12,
   "itens": {
    "comeceaqui": {
@@ -603,7 +603,7 @@
     "total_interactions": 0
    },
    "post07": {
-    "reach": 3,
+    "reach": 4,
     "views": 6,
     "likes": 2,
     "comments": 0,
@@ -683,7 +683,7 @@
     "total_interactions": 0
    },
    "post10": {
-    "reach": 10,
+    "reach": 11,
     "views": 14,
     "likes": 2,
     "comments": 0,
@@ -699,7 +699,7 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 9306
+    "ig_reels_avg_watch_time": 9193
    },
    "storypost10": {
     "reach": 0,
@@ -726,8 +726,8 @@
     "total_interactions": 0
    },
    "post11": {
-    "reach": 6,
-    "views": 10,
+    "reach": 8,
+    "views": 12,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -752,14 +752,14 @@
     "total_interactions": 0
    },
    "reel10": {
-    "reach": 5,
-    "views": 9,
+    "reach": 6,
+    "views": 10,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 11962
+    "ig_reels_avg_watch_time": 10895
    },
    "story2026-10-15": {
     "reach": 0,
@@ -769,8 +769,8 @@
     "total_interactions": 0
    },
    "post12": {
-    "reach": 4,
-    "views": 9,
+    "reach": 7,
+    "views": 11,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -778,7 +778,7 @@
     "total_interactions": 1
    },
    "reel05": {
-    "reach": 11,
+    "reach": 12,
     "views": 20,
     "likes": 0,
     "comments": 0,
@@ -786,8 +786,39 @@
     "shares": 0,
     "total_interactions": 0,
     "ig_reels_avg_watch_time": 4508
+   },
+   "storypost12": {
+    "reach": 0,
+    "views": 10,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel11": {
+    "reach": 2,
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 2894
+   },
+   "story2026-10-16": {
+    "reach": 0,
+    "views": 6,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
    }
   },
-  "em": "2026-10-16T17:35-03:00"
+  "em": "2026-10-16T23:30-03:00",
+  "conta": {
+   "reach": 28,
+   "views": 99,
+   "accounts_engaged": 1,
+   "total_interactions": 2,
+   "profile_views": 16
+  }
  }
 }
