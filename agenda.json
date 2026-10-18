@@ -667,6 +667,34 @@
   "destaque": "Verdade ou mito"
  },
  {
+  "id": "post15",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-19T12:00:00-03:00",
+  "midia": [
+   "midia/post15/slide_01.jpg",
+   "midia/post15/slide_02.jpg",
+   "midia/post15/slide_03.jpg",
+   "midia/post15/slide_04.jpg",
+   "midia/post15/slide_05.jpg",
+   "midia/post15/slide_06.jpg",
+   "midia/post15/slide_07.jpg",
+   "midia/post15/slide_08.jpg"
+  ],
+  "legenda": "Por que a cebola faz a gente chorar? 🧅😭\n\n🔪 Dentro da cebola há substâncias guardadas separadas.\n💥 Ao cortar, as células se rompem e elas se misturam.\n💨 A mistura vira um gás irritante que chega aos olhos.\n💧 Os olhos respondem fazendo lágrimas para se limpar.\n\n📌 Dado real: em 2013, cientistas japoneses ganharam o prêmio Ig Nobel de Química por descobrir a enzima da cebola que faz os olhos lacrimejarem.\n\nVocê chora cortando cebola? A (sempre) ou B (nunca)?\n\n#cebola #quimica #ciencia #curiosidades #curiosidadesempapel",
+  "titulo": "Por que a cebola faz a gente chorar?",
+  "miniatura": "midia/miniaturas/post15.jpg",
+  "alt": [
+   "Slide 1 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Por que a cebola faz a gente chorar? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
   "id": "reel08",
   "tipo": "REEL",
   "quando": "2026-10-19T15:00:00-03:00",
@@ -680,6 +708,17 @@
   "miniatura": "midia/miniaturas/post08.jpg"
  },
  {
+  "id": "storypost15",
+  "tipo": "STORY",
+  "quando": "2026-10-19T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post15.jpg"
+  ],
+  "titulo": "Post novo: Por que a cebola faz a gente chorar?",
+  "miniatura": "midia/miniaturas/storypost15.jpg",
+  "destaque": "Por que"
+ },
+ {
   "id": "reel14",
   "tipo": "REEL",
   "quando": "2026-10-19T20:00:00-03:00",
@@ -691,5 +730,405 @@
   "capa_ms": 500,
   "titulo": "Você prefere voar ou ficar invisível?",
   "miniatura": "midia/miniaturas/post14.jpg"
+ },
+ {
+  "id": "story2026-10-19",
+  "tipo": "STORY",
+  "quando": "2026-10-19T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-19.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-19.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post16",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-20T12:00:00-03:00",
+  "midia": [
+   "midia/post16/slide_01.jpg",
+   "midia/post16/slide_02.jpg",
+   "midia/post16/slide_03.jpg",
+   "midia/post16/slide_04.jpg",
+   "midia/post16/slide_05.jpg",
+   "midia/post16/slide_06.jpg",
+   "midia/post16/slide_07.jpg",
+   "midia/post16/slide_08.jpg"
+  ],
+  "legenda": "Por que o céu é azul? 🌤️\n\n☀️ A luz do Sol parece branca, mas tem todas as cores misturadas.\n💙 Ao entrar no ar, a luz azul se espalha muito mais que as outras cores, para todos os lados.\n🌅 No fim da tarde, a luz atravessa muito mais ar, o azul se perde no caminho e sobram o laranja e o vermelho.\n\n📌 Dado real: em Marte é quase o contrário: o céu do dia é cor de caramelo e o pôr do sol tem um brilho azulado. (NASA)\n\nVocê prefere o céu azul ou o pôr do sol? A (céu azul) ou B (pôr do sol)?\n\n#ceu #fisica #ciencia #curiosidades #curiosidadesempapel",
+  "titulo": "Por que o céu é azul?",
+  "miniatura": "midia/miniaturas/post16.jpg",
+  "alt": [
+   "Slide 1 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Por que o céu é azul? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel15",
+  "tipo": "REEL",
+  "quando": "2026-10-20T15:00:00-03:00",
+  "midia": [
+   "midia/post15/reel.mp4"
+  ],
+  "legenda": "Por que a cebola faz a gente chorar? 🧅😭\n\nNão é tristeza. É química acontecendo na tábua de cortar.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#cebola #quimica #ciencia #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Por que a cebola faz a gente chorar?",
+  "miniatura": "midia/miniaturas/post15.jpg"
+ },
+ {
+  "id": "storypost16",
+  "tipo": "STORY",
+  "quando": "2026-10-20T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post16.jpg"
+  ],
+  "titulo": "Post novo: Por que o céu é azul?",
+  "miniatura": "midia/miniaturas/storypost16.jpg",
+  "destaque": "Por que"
+ },
+ {
+  "id": "story2026-10-20",
+  "tipo": "STORY",
+  "quando": "2026-10-20T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-20.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-20.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post17",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-21T12:00:00-03:00",
+  "midia": [
+   "midia/post17/slide_01.jpg",
+   "midia/post17/slide_02.jpg",
+   "midia/post17/slide_03.jpg",
+   "midia/post17/slide_04.jpg",
+   "midia/post17/slide_05.jpg",
+   "midia/post17/slide_06.jpg",
+   "midia/post17/slide_07.jpg",
+   "midia/post17/slide_08.jpg"
+  ],
+  "legenda": "Dá pra ver a Muralha da China do espaço? 🧱🚀\n\n🧱 Dizem que é a única obra humana visível do espaço.\n📏 Mas ela é enorme no comprimento e bem estreita, da cor do terreno em volta.\n👨‍🚀 Em 2003, o primeiro astronauta chinês, Yang Liwei, contou que não conseguiu ver a muralha.\n🌃 O que dá para ver do espaço: cidades acesas à noite, grandes estradas e aeroportos.\n\n📌 Dado real: em 2004, o astronauta Leroy Chiao fotografou a muralha da Estação Espacial, mas só com lente de zoom. (NASA)\n\nVocê acreditava nesse mito? A (acreditava) ou B (não)?\n\n#espaco #muralhadachina #mitos #curiosidades #curiosidadesempapel",
+  "titulo": "Dá pra ver a Muralha da China do espaço?",
+  "miniatura": "midia/miniaturas/post17.jpg",
+  "alt": [
+   "Slide 1 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Dá pra ver a Muralha da China do espaço? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel16",
+  "tipo": "REEL",
+  "quando": "2026-10-21T15:00:00-03:00",
+  "midia": [
+   "midia/post16/reel.mp4"
+  ],
+  "legenda": "Por que o céu é azul? 🌤️\n\nA cor do céu depende do que existe no ar. Em Marte, tudo muda.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#ceu #fisica #ciencia #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Por que o céu é azul?",
+  "miniatura": "midia/miniaturas/post16.jpg"
+ },
+ {
+  "id": "storypost17",
+  "tipo": "STORY",
+  "quando": "2026-10-21T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post17.jpg"
+  ],
+  "titulo": "Post novo: Dá pra ver a Muralha da China do espaço?",
+  "miniatura": "midia/miniaturas/storypost17.jpg",
+  "destaque": "Dá pra"
+ },
+ {
+  "id": "story2026-10-21",
+  "tipo": "STORY",
+  "quando": "2026-10-21T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-21.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-21.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post18",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-22T12:00:00-03:00",
+  "midia": [
+   "midia/post18/slide_01.jpg",
+   "midia/post18/slide_02.jpg",
+   "midia/post18/slide_03.jpg",
+   "midia/post18/slide_04.jpg",
+   "midia/post18/slide_05.jpg",
+   "midia/post18/slide_06.jpg",
+   "midia/post18/slide_07.jpg",
+   "midia/post18/slide_08.jpg"
+  ],
+  "legenda": "E se você pudesse parar o tempo? ⏸️\n\n🧊 Tudo congela: pessoas, carros, até os pássaros no ar.\n🌑 A luz também pararia, e sem luz chegando aos olhos você não veria nada.\n🧱 O ar congelaria: andar seria como empurrar uma parede.\n😮‍💨 E o ar que você respira, parado, não entraria nos pulmões.\n\n📌 Dado real: a gente só enxerga porque a luz viaja até os olhos, a cerca de 300 mil km por segundo. (NASA)\n\nMesmo assim, você usaria esse poder? A (usaria) ou B (não)?\n\n#tempo #fisica #superpoderes #curiosidades #curiosidadesempapel",
+  "titulo": "E se você pudesse parar o tempo?",
+  "miniatura": "midia/miniaturas/post18.jpg",
+  "alt": [
+   "Slide 1 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: E se você pudesse parar o tempo? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel17",
+  "tipo": "REEL",
+  "quando": "2026-10-22T15:00:00-03:00",
+  "midia": [
+   "midia/post17/reel.mp4"
+  ],
+  "legenda": "Dá pra ver a Muralha da China do espaço? 🧱🚀\n\nUm dos mitos mais famosos do espaço. A resposta surpreende.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#espaco #muralhadachina #mitos #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Dá pra ver a Muralha da China do espaço?",
+  "miniatura": "midia/miniaturas/post17.jpg"
+ },
+ {
+  "id": "storypost18",
+  "tipo": "STORY",
+  "quando": "2026-10-22T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post18.jpg"
+  ],
+  "titulo": "Post novo: E se você pudesse parar o tempo?",
+  "miniatura": "midia/miniaturas/storypost18.jpg",
+  "destaque": "E se"
+ },
+ {
+  "id": "story2026-10-22",
+  "tipo": "STORY",
+  "quando": "2026-10-22T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-22.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-22.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post19",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-23T12:00:00-03:00",
+  "midia": [
+   "midia/post19/slide_01.jpg",
+   "midia/post19/slide_02.jpg",
+   "midia/post19/slide_03.jpg",
+   "midia/post19/slide_04.jpg",
+   "midia/post19/slide_05.jpg",
+   "midia/post19/slide_06.jpg",
+   "midia/post19/slide_07.jpg",
+   "midia/post19/slide_08.jpg"
+  ],
+  "legenda": "Dá pra contar até um bilhão? 🔢\n\n⏱️ Contando 1 número por segundo, sem parar, sem dormir e sem comer:\n🔹 até mil: uns 17 minutos\n🔹 até um milhão: uns 11 dias e meio\n🔹 até um bilhão: quase 32 anos\n😴 Só na teoria: ninguém fica 32 anos sem dormir, e números grandes demoram mais para falar.\n\n📌 Dado real: um bilhão de segundos equivalem a 31 anos e 8 meses. (cálculo: 1 bilhão ÷ 31,56 milhões de segundos por ano)\n\nAté onde você já contou? A (até 100) ou B (até 1.000)?\n\n#matematica #numeros #curiosidades #curiosidades #curiosidadesempapel",
+  "titulo": "Dá pra contar até um bilhão?",
+  "miniatura": "midia/miniaturas/post19.jpg",
+  "alt": [
+   "Slide 1 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Dá pra contar até um bilhão? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel18",
+  "tipo": "REEL",
+  "quando": "2026-10-23T15:00:00-03:00",
+  "midia": [
+   "midia/post18/reel.mp4"
+  ],
+  "legenda": "E se você pudesse parar o tempo? ⏸️\n\nParar o tempo parece o melhor poder do mundo. Até você pensar na luz.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#tempo #fisica #superpoderes #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "E se você pudesse parar o tempo?",
+  "miniatura": "midia/miniaturas/post18.jpg"
+ },
+ {
+  "id": "storypost19",
+  "tipo": "STORY",
+  "quando": "2026-10-23T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post19.jpg"
+  ],
+  "titulo": "Post novo: Dá pra contar até um bilhão?",
+  "miniatura": "midia/miniaturas/storypost19.jpg",
+  "destaque": "Dá pra"
+ },
+ {
+  "id": "story2026-10-23",
+  "tipo": "STORY",
+  "quando": "2026-10-23T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-23.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-23.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post20",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-24T12:00:00-03:00",
+  "midia": [
+   "midia/post20/slide_01.jpg",
+   "midia/post20/slide_02.jpg",
+   "midia/post20/slide_03.jpg",
+   "midia/post20/slide_04.jpg",
+   "midia/post20/slide_05.jpg",
+   "midia/post20/slide_06.jpg",
+   "midia/post20/slide_07.jpg",
+   "midia/post20/slide_08.jpg"
+  ],
+  "legenda": "Como seria o mundo sem eletricidade? 🕯️\n\n📵 Na hora 1: sem luz, sem internet, sem elevador, e os celulares vão descarregando.\n🚰 No dia 1: as bombas param e as torneiras secam assim que a caixa-d'água esvazia.\n🧊 Ainda no dia 1: a geladeira esquenta e a comida começa a estragar em poucas horas.\n📜 Na semana 1: a vida volta a ser a de mais de 100 anos atrás.\n\n📌 Dado real: em 1882, a usina Pearl Street, de Thomas Edison, em Nova York, começou a ligar lâmpadas para 59 clientes. (IEEE)\n\nQuantos dias você aguentaria? A (1 dia) ou B (30 dias)?\n\n#eletricidade #historia #edison #curiosidades #curiosidadesempapel",
+  "titulo": "Como seria o mundo sem eletricidade?",
+  "miniatura": "midia/miniaturas/post20.jpg",
+  "alt": [
+   "Slide 1 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Como seria o mundo sem eletricidade? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel19",
+  "tipo": "REEL",
+  "quando": "2026-10-24T15:00:00-03:00",
+  "midia": [
+   "midia/post19/reel.mp4"
+  ],
+  "legenda": "Dá pra contar até um bilhão? 🔢\n\nContar até um bilhão leva uma parte enorme da vida.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#matematica #numeros #curiosidades #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Dá pra contar até um bilhão?",
+  "miniatura": "midia/miniaturas/post19.jpg"
+ },
+ {
+  "id": "storypost20",
+  "tipo": "STORY",
+  "quando": "2026-10-24T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post20.jpg"
+  ],
+  "titulo": "Post novo: Como seria o mundo sem eletricidade?",
+  "miniatura": "midia/miniaturas/storypost20.jpg"
+ },
+ {
+  "id": "story2026-10-24",
+  "tipo": "STORY",
+  "quando": "2026-10-24T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-24.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-24.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "post21",
+  "tipo": "CARROSSEL",
+  "quando": "2026-10-25T12:00:00-03:00",
+  "midia": [
+   "midia/post21/slide_01.jpg",
+   "midia/post21/slide_02.jpg",
+   "midia/post21/slide_03.jpg",
+   "midia/post21/slide_04.jpg",
+   "midia/post21/slide_05.jpg",
+   "midia/post21/slide_06.jpg",
+   "midia/post21/slide_07.jpg",
+   "midia/post21/slide_08.jpg"
+  ],
+  "legenda": "Você prefere viver sem internet ou sem doces? 📵🍫\n\n📵 Sem internet: nada de redes, vídeos ou mensagens, só ligação e carta. Mas você teria mais tempo livre do que nunca.\n🍫 Sem doces: nunca mais brigadeiro, sorvete ou bolo de aniversário. Mas o dentista e a balança agradeceriam.\n\n📌 Dado real: os brasileiros ficam conectados, em média, 9 h 13 min por dia. A média mundial é de 6 h 38 min. (Bain & Company, 2025)\n\nE aí? A (sem internet) ou B (sem doces)?\n\n#vocepreferiria #escolhadificil #internet #curiosidades #curiosidadesempapel",
+  "titulo": "Você prefere viver sem internet ou sem doces?",
+  "miniatura": "midia/miniaturas/post21.jpg",
+  "alt": [
+   "Slide 1 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 2 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 3 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 4 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 5 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 6 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 7 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal.",
+   "Slide 8 de 8: Você prefere viver sem internet ou sem doces? Ilustração em papel recortado com um ponto de interrogação amarelo, o mascote do canal."
+  ]
+ },
+ {
+  "id": "reel20",
+  "tipo": "REEL",
+  "quando": "2026-10-25T15:00:00-03:00",
+  "midia": [
+   "midia/post20/reel.mp4"
+  ],
+  "legenda": "Como seria o mundo sem eletricidade? 🕯️\n\nSem eletricidade, a comida da geladeira estraga rápido.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#eletricidade #historia #edison #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Como seria o mundo sem eletricidade?",
+  "miniatura": "midia/miniaturas/post20.jpg"
+ },
+ {
+  "id": "storypost21",
+  "tipo": "STORY",
+  "quando": "2026-10-25T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post21.jpg"
+  ],
+  "titulo": "Post novo: Você prefere viver sem internet ou sem doces?",
+  "miniatura": "midia/miniaturas/storypost21.jpg"
+ },
+ {
+  "id": "story2026-10-25",
+  "tipo": "STORY",
+  "quando": "2026-10-25T21:30:00-03:00",
+  "midia": [
+   "midia/stories/story_2026-10-25.jpg"
+  ],
+  "titulo": "Verdade ou mito?",
+  "miniatura": "midia/miniaturas/story2026-10-25.jpg",
+  "destaque": "Verdade ou mito"
+ },
+ {
+  "id": "reel21",
+  "tipo": "REEL",
+  "quando": "2026-10-26T15:00:00-03:00",
+  "midia": [
+   "midia/post21/reel.mp4"
+  ],
+  "legenda": "Você prefere viver sem internet ou sem doces? 📵🍫\n\nOs dois fazem falta. Só um dá para deixar.\n\n👉 A resposta completa está no carrossel do perfil.\n\n✨ Siga @curiosidadesempapel para uma curiosidade nova por dia.\n\n#vocepreferiria #escolhadificil #internet #curiosidades #curiosidadesempapel",
+  "na_grade": false,
+  "capa_ms": 500,
+  "titulo": "Você prefere viver sem internet ou sem doces?",
+  "miniatura": "midia/miniaturas/post21.jpg"
  }
 ]
