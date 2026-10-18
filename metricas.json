@@ -23,6 +23,10 @@
   {
    "dia": "2026-10-17",
    "n": 9
+  },
+  {
+   "dia": "2026-10-18",
+   "n": 9
   }
  ],
  "comeceaqui": {
@@ -41,7 +45,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost01": {
   "reach": 0,
@@ -51,7 +55,7 @@
   "total_interactions": 0,
   "lido_em": "2026-10-13T17:30:30.187482+00:00"
  },
- "_em": "2026-10-17T20:35:26.006349+00:00",
+ "_em": "2026-10-18T02:30:29.053589+00:00",
  "post02": {
   "reach": 3,
   "views": 7,
@@ -60,7 +64,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost02": {
   "reach": 0,
@@ -78,7 +82,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "post04": {
   "reach": 3,
@@ -88,7 +92,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 2,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost04": {
   "reach": 0,
@@ -106,7 +110,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 2,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost05": {
   "reach": 0,
@@ -124,7 +128,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 2,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost06": {
   "reach": 0,
@@ -142,7 +146,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 2,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "reel01": {
   "reach": 1,
@@ -153,7 +157,8 @@
   "shares": 0,
   "total_interactions": 2,
   "ig_reels_avg_watch_time": 16161,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 0,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost07": {
   "reach": 0,
@@ -171,7 +176,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 3,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "story2026-10-12": {
   "reach": 0,
@@ -206,7 +211,8 @@
   "shares": 0,
   "total_interactions": 1,
   "ig_reels_avg_watch_time": 6768,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 85.7,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "story2026-10-13": {
   "reach": 0,
@@ -232,7 +238,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 3,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "reel03": {
   "reach": 64,
@@ -243,7 +249,8 @@
   "shares": 0,
   "total_interactions": 2,
   "ig_reels_avg_watch_time": 9193,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 55.6,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost10": {
   "reach": 0,
@@ -262,7 +269,8 @@
   "shares": 0,
   "total_interactions": 1,
   "ig_reels_avg_watch_time": 4831,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 72.7,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "story2026-10-14": {
   "reach": 0,
@@ -280,7 +288,7 @@
   "saved": 1,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "reel04": {
   "reach": 15,
@@ -291,7 +299,8 @@
   "shares": 0,
   "total_interactions": 1,
   "ig_reels_avg_watch_time": 19869,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 66.7,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost11": {
   "reach": 7,
@@ -310,7 +319,8 @@
   "shares": 0,
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 10895,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 57.1,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "story2026-10-15": {
   "reach": 0,
@@ -320,7 +330,7 @@
   "total_interactions": 0,
   "lido_em": "2026-10-16T20:35:24.373133+00:00"
  },
- "_fechado": "2026-10-16",
+ "_fechado": "2026-10-17",
  "post12": {
   "reach": 7,
   "views": 11,
@@ -329,7 +339,7 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "reel05": {
   "reach": 15,
@@ -340,7 +350,8 @@
   "shares": 0,
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 3496,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 84.6,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "storypost12": {
   "reach": 5,
@@ -359,7 +370,8 @@
   "shares": 0,
   "total_interactions": 0,
   "ig_reels_avg_watch_time": 2517,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "reels_skip_rate": 100,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "story2026-10-16": {
   "reach": 5,
@@ -377,17 +389,46 @@
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  },
  "reel06": {
-  "reach": 53,
-  "views": 63,
+  "reach": 80,
+  "views": 89,
   "likes": 1,
   "comments": 0,
   "saved": 0,
   "shares": 0,
   "total_interactions": 1,
-  "ig_reels_avg_watch_time": 10239,
-  "lido_em": "2026-10-17T20:35:26.006349+00:00"
+  "ig_reels_avg_watch_time": 9079,
+  "reels_skip_rate": 66.7,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
+ },
+ "storypost13": {
+  "reach": 0,
+  "views": 2,
+  "replies": 0,
+  "shares": 0,
+  "total_interactions": 0,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
+ },
+ "reel12": {
+  "reach": 26,
+  "views": 30,
+  "likes": 0,
+  "comments": 0,
+  "saved": 0,
+  "shares": 0,
+  "total_interactions": 0,
+  "ig_reels_avg_watch_time": 2754,
+  "reels_skip_rate": 67.9,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
+ },
+ "story2026-10-17": {
+  "reach": 0,
+  "views": 1,
+  "replies": 0,
+  "shares": 0,
+  "total_interactions": 0,
+  "lido_em": "2026-10-18T02:30:29.053589+00:00"
  }
 }

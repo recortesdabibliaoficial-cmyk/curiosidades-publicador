@@ -938,7 +938,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 16161
+    "ig_reels_avg_watch_time": 16161,
+    "reels_skip_rate": 0
    },
    "storypost07": {
     "reach": 0,
@@ -985,7 +986,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 6768
+    "ig_reels_avg_watch_time": 6768,
+    "reels_skip_rate": 85.7
    },
    "story2026-10-13": {
     "reach": 0,
@@ -1018,7 +1020,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 9193
+    "ig_reels_avg_watch_time": 9193,
+    "reels_skip_rate": 55.6
    },
    "storypost10": {
     "reach": 0,
@@ -1035,7 +1038,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 4831
+    "ig_reels_avg_watch_time": 4831,
+    "reels_skip_rate": 72.7
    },
    "story2026-10-14": {
     "reach": 0,
@@ -1061,7 +1065,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 19869
+    "ig_reels_avg_watch_time": 19869,
+    "reels_skip_rate": 66.7
    },
    "storypost11": {
     "reach": 7,
@@ -1078,7 +1083,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 10895
+    "ig_reels_avg_watch_time": 10895,
+    "reels_skip_rate": 57.1
    },
    "story2026-10-15": {
     "reach": 0,
@@ -1104,7 +1110,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 3496
+    "ig_reels_avg_watch_time": 3496,
+    "reels_skip_rate": 84.6
    },
    "storypost12": {
     "reach": 5,
@@ -1121,7 +1128,8 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 2517
+    "ig_reels_avg_watch_time": 2517,
+    "reels_skip_rate": 100
    },
    "story2026-10-16": {
     "reach": 5,
@@ -1140,16 +1148,64 @@
     "total_interactions": 1
    },
    "reel06": {
-    "reach": 53,
-    "views": 63,
+    "reach": 80,
+    "views": 89,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 10239
+    "ig_reels_avg_watch_time": 9079,
+    "reels_skip_rate": 66.7
+   },
+   "storypost13": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel12": {
+    "reach": 26,
+    "views": 30,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 2754,
+    "reels_skip_rate": 67.9
+   },
+   "story2026-10-17": {
+    "reach": 0,
+    "views": 1,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
    }
   },
-  "em": "2026-10-17T17:35-03:00"
+  "em": "2026-10-17T23:30-03:00",
+  "conta": {
+   "reach": 111,
+   "views": 134,
+   "accounts_engaged": 2,
+   "total_interactions": 2,
+   "profile_views": 2
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "NON_FOLLOWER": 107,
+    "FOLLOWER": 4
+   },
+   "views:follow_type": {
+    "FOLLOWER": 17,
+    "NON_FOLLOWER": 117
+   },
+   "views:media_product_type": {
+    "REEL": 119,
+    "CAROUSEL_CONTAINER": 10,
+    "STORY": 5
+   }
+  }
  }
 }
