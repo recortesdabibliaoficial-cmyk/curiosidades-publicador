@@ -1535,15 +1535,15 @@
     "total_interactions": 1
    },
    "reel06": {
-    "reach": 100,
-    "views": 110,
+    "reach": 101,
+    "views": 112,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 8302,
-    "reels_skip_rate": 70.6
+    "ig_reels_avg_watch_time": 8255,
+    "reels_skip_rate": 70.9
    },
    "storypost13": {
     "reach": 0,
@@ -1553,15 +1553,15 @@
     "total_interactions": 0
    },
    "reel12": {
-    "reach": 67,
-    "views": 72,
+    "reach": 71,
+    "views": 77,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 4154,
-    "reels_skip_rate": 63.6
+    "ig_reels_avg_watch_time": 3983,
+    "reels_skip_rate": 65.7
    },
    "story2026-10-17": {
     "reach": 0,
@@ -1572,7 +1572,7 @@
    },
    "post14": {
     "reach": 1,
-    "views": 6,
+    "views": 7,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -1580,17 +1580,64 @@
     "total_interactions": 0
    },
    "reel07": {
-    "reach": 2,
-    "views": 4,
+    "reach": 6,
+    "views": 9,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 7832,
-    "reels_skip_rate": 50
+    "ig_reels_avg_watch_time": 3784,
+    "reels_skip_rate": 83.3
+   },
+   "storypost14": {
+    "reach": 0,
+    "views": 3,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel13": {
+    "reach": 52,
+    "views": 70,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 7475,
+    "reels_skip_rate": 61
+   },
+   "story2026-10-18": {
+    "reach": 0,
+    "views": 4,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
    }
   },
-  "em": "2026-10-18T17:35-03:00"
+  "em": "2026-10-18T23:30-03:00",
+  "conta": {
+   "reach": 95,
+   "views": 123,
+   "accounts_engaged": 0,
+   "total_interactions": 0,
+   "profile_views": 1
+  },
+  "quebras": {
+   "reach:follow_type": {
+    "FOLLOWER": 4,
+    "NON_FOLLOWER": 91
+   },
+   "views:follow_type": {
+    "FOLLOWER": 20,
+    "NON_FOLLOWER": 103
+   },
+   "views:media_product_type": {
+    "STORY": 9,
+    "REEL": 107,
+    "CAROUSEL_CONTAINER": 7
+   }
+  }
  }
 }
