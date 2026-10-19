@@ -726,20 +726,9 @@
   "dur": 45.2
  },
  {
-  "id": "storypost15",
-  "tipo": "STORY",
-  "quando": "2026-10-19T18:00:00-03:00",
-  "midia": [
-   "midia/stories/story_post15.jpg"
-  ],
-  "titulo": "Post novo: Por que a cebola faz a gente chorar?",
-  "miniatura": "midia/miniaturas/storypost15.jpg",
-  "destaque": "Por que"
- },
- {
   "id": "reel14",
   "tipo": "REEL",
-  "quando": "2026-10-19T20:00:00-03:00",
+  "quando": "2026-10-19T17:00:00-03:00",
   "midia": [
    "midia/post14/reel.mp4"
   ],
@@ -752,9 +741,20 @@
   "dur": 36.8
  },
  {
+  "id": "storypost15",
+  "tipo": "STORY",
+  "quando": "2026-10-19T18:00:00-03:00",
+  "midia": [
+   "midia/stories/story_post15.jpg"
+  ],
+  "titulo": "Post novo: Por que a cebola faz a gente chorar?",
+  "miniatura": "midia/miniaturas/storypost15.jpg",
+  "destaque": "Por que"
+ },
+ {
   "id": "story2026-10-19",
   "tipo": "STORY",
-  "quando": "2026-10-19T21:30:00-03:00",
+  "quando": "2026-10-19T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-19.jpg"
   ],
@@ -794,7 +794,7 @@
  {
   "id": "reel15",
   "tipo": "REEL",
-  "quando": "2026-10-20T15:00:00-03:00",
+  "quando": "2026-10-20T17:00:00-03:00",
   "midia": [
    "midia/post15/reel.mp4"
   ],
@@ -809,7 +809,7 @@
  {
   "id": "storypost16",
   "tipo": "STORY",
-  "quando": "2026-10-20T18:00:00-03:00",
+  "quando": "2026-10-20T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post16.jpg"
   ],
@@ -820,7 +820,7 @@
  {
   "id": "story2026-10-20",
   "tipo": "STORY",
-  "quando": "2026-10-20T21:30:00-03:00",
+  "quando": "2026-10-20T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-20.jpg"
   ],
@@ -860,7 +860,7 @@
  {
   "id": "reel16",
   "tipo": "REEL",
-  "quando": "2026-10-21T15:00:00-03:00",
+  "quando": "2026-10-21T17:00:00-03:00",
   "midia": [
    "midia/post16/reel.mp4"
   ],
@@ -875,7 +875,7 @@
  {
   "id": "storypost17",
   "tipo": "STORY",
-  "quando": "2026-10-21T18:00:00-03:00",
+  "quando": "2026-10-21T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post17.jpg"
   ],
@@ -886,7 +886,7 @@
  {
   "id": "story2026-10-21",
   "tipo": "STORY",
-  "quando": "2026-10-21T21:30:00-03:00",
+  "quando": "2026-10-21T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-21.jpg"
   ],
@@ -926,7 +926,7 @@
  {
   "id": "reel17",
   "tipo": "REEL",
-  "quando": "2026-10-22T15:00:00-03:00",
+  "quando": "2026-10-22T17:00:00-03:00",
   "midia": [
    "midia/post17/reel.mp4"
   ],
@@ -941,7 +941,7 @@
  {
   "id": "storypost18",
   "tipo": "STORY",
-  "quando": "2026-10-22T18:00:00-03:00",
+  "quando": "2026-10-22T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post18.jpg"
   ],
@@ -952,7 +952,7 @@
  {
   "id": "story2026-10-22",
   "tipo": "STORY",
-  "quando": "2026-10-22T21:30:00-03:00",
+  "quando": "2026-10-22T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-22.jpg"
   ],
@@ -992,7 +992,7 @@
  {
   "id": "reel18",
   "tipo": "REEL",
-  "quando": "2026-10-23T15:00:00-03:00",
+  "quando": "2026-10-23T17:00:00-03:00",
   "midia": [
    "midia/post18/reel.mp4"
   ],
@@ -1007,7 +1007,7 @@
  {
   "id": "storypost19",
   "tipo": "STORY",
-  "quando": "2026-10-23T18:00:00-03:00",
+  "quando": "2026-10-23T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post19.jpg"
   ],
@@ -1018,7 +1018,7 @@
  {
   "id": "story2026-10-23",
   "tipo": "STORY",
-  "quando": "2026-10-23T21:30:00-03:00",
+  "quando": "2026-10-23T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-23.jpg"
   ],
@@ -1058,7 +1058,7 @@
  {
   "id": "reel19",
   "tipo": "REEL",
-  "quando": "2026-10-24T15:00:00-03:00",
+  "quando": "2026-10-24T17:00:00-03:00",
   "midia": [
    "midia/post19/reel.mp4"
   ],
@@ -1073,7 +1073,7 @@
  {
   "id": "storypost20",
   "tipo": "STORY",
-  "quando": "2026-10-24T18:00:00-03:00",
+  "quando": "2026-10-24T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post20.jpg"
   ],
@@ -1083,7 +1083,7 @@
  {
   "id": "story2026-10-24",
   "tipo": "STORY",
-  "quando": "2026-10-24T21:30:00-03:00",
+  "quando": "2026-10-24T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-24.jpg"
   ],
@@ -1123,7 +1123,7 @@
  {
   "id": "reel20",
   "tipo": "REEL",
-  "quando": "2026-10-25T15:00:00-03:00",
+  "quando": "2026-10-25T17:00:00-03:00",
   "midia": [
    "midia/post20/reel.mp4"
   ],
@@ -1138,7 +1138,7 @@
  {
   "id": "storypost21",
   "tipo": "STORY",
-  "quando": "2026-10-25T18:00:00-03:00",
+  "quando": "2026-10-25T17:00:00-03:00",
   "midia": [
    "midia/stories/story_post21.jpg"
   ],
@@ -1148,7 +1148,7 @@
  {
   "id": "story2026-10-25",
   "tipo": "STORY",
-  "quando": "2026-10-25T21:30:00-03:00",
+  "quando": "2026-10-25T21:00:00-03:00",
   "midia": [
    "midia/stories/story_2026-10-25.jpg"
   ],
@@ -1159,7 +1159,7 @@
  {
   "id": "reel21",
   "tipo": "REEL",
-  "quando": "2026-10-26T15:00:00-03:00",
+  "quando": "2026-10-26T17:00:00-03:00",
   "midia": [
    "midia/post21/reel.mp4"
   ],
