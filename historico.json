@@ -2030,15 +2030,15 @@
     "total_interactions": 0
    },
    "reel13": {
-    "reach": 79,
-    "views": 94,
+    "reach": 86,
+    "views": 105,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 7211,
-    "reels_skip_rate": 72.8
+    "ig_reels_avg_watch_time": 6943,
+    "reels_skip_rate": 73
    },
    "story2026-10-18": {
     "reach": 0,
@@ -2048,6 +2048,6 @@
     "total_interactions": 0
    }
   },
-  "em": "2026-10-19T05:35-03:00"
+  "em": "2026-10-19T11:35-03:00"
  }
 }
