@@ -212,7 +212,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "E se a Terra parasse de girar?",
-  "miniatura": "midia/miniaturas/post01.jpg"
+  "miniatura": "midia/miniaturas/post01.jpg",
+  "dur": 18.4
  },
  {
   "id": "storypost07",
@@ -304,7 +305,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Por que o bocejo é contagioso?",
-  "miniatura": "midia/miniaturas/post02.jpg"
+  "miniatura": "midia/miniaturas/post02.jpg",
+  "dur": 41.2
  },
  {
   "id": "story2026-10-13",
@@ -357,7 +359,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Dá pra cavar um buraco até o Japão?",
-  "miniatura": "midia/miniaturas/post03.jpg"
+  "miniatura": "midia/miniaturas/post03.jpg",
+  "dur": 50.3
  },
  {
   "id": "storypost10",
@@ -381,7 +384,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Por que os dedos enrugam na água?",
-  "miniatura": "midia/miniaturas/post09.jpg"
+  "miniatura": "midia/miniaturas/post09.jpg",
+  "dur": 40.4
  },
  {
   "id": "story2026-10-14",
@@ -423,7 +427,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "E se você acordasse em 1850?",
-  "miniatura": "midia/miniaturas/post04.jpg"
+  "miniatura": "midia/miniaturas/post04.jpg",
+  "dur": 49.0
  },
  {
   "id": "storypost11",
@@ -447,7 +452,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Dá pra fritar um ovo no asfalto?",
-  "miniatura": "midia/miniaturas/post10.jpg"
+  "miniatura": "midia/miniaturas/post10.jpg",
+  "dur": 42.5
  },
  {
   "id": "story2026-10-15",
@@ -489,7 +495,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "100 pessoas contra 1 gorila: quem ganha?",
-  "miniatura": "midia/miniaturas/post05.jpg"
+  "miniatura": "midia/miniaturas/post05.jpg",
+  "dur": 40.6
  },
  {
   "id": "storypost12",
@@ -513,7 +520,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "E se você ficasse invisível por um dia?",
-  "miniatura": "midia/miniaturas/post11.jpg"
+  "miniatura": "midia/miniaturas/post11.jpg",
+  "dur": 38.5
  },
  {
   "id": "story2026-10-16",
@@ -555,7 +563,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Como seria o Brasil se os holandeses tivessem ficado?",
-  "miniatura": "midia/miniaturas/post06.jpg"
+  "miniatura": "midia/miniaturas/post06.jpg",
+  "dur": 46.9
  },
  {
   "id": "storypost13",
@@ -578,7 +587,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Onça-pintada contra leão: quem ganha?",
-  "miniatura": "midia/miniaturas/post12.jpg"
+  "miniatura": "midia/miniaturas/post12.jpg",
+  "dur": 41.3
  },
  {
   "id": "story2026-10-17",
@@ -632,7 +642,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Nunca mais sentir frio ou nunca mais sentir sono?",
-  "miniatura": "midia/miniaturas/post07.jpg"
+  "miniatura": "midia/miniaturas/post07.jpg",
+  "dur": 42.4
  },
  {
   "id": "storypost14",
@@ -656,7 +667,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Como seria morar em Marte?",
-  "miniatura": "midia/miniaturas/post13.jpg"
+  "miniatura": "midia/miniaturas/post13.jpg",
+  "dur": 47.0
  },
  {
   "id": "story2026-10-18",
@@ -710,7 +722,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "E se a Lua sumisse?",
-  "miniatura": "midia/miniaturas/post08.jpg"
+  "miniatura": "midia/miniaturas/post08.jpg",
+  "dur": 45.2
  },
  {
   "id": "storypost15",
@@ -735,7 +748,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Você prefere voar ou ficar invisível?",
-  "miniatura": "midia/miniaturas/post14.jpg"
+  "miniatura": "midia/miniaturas/post14.jpg",
+  "dur": 36.8
  },
  {
   "id": "story2026-10-19",
@@ -789,7 +803,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Por que a cebola faz a gente chorar?",
-  "miniatura": "midia/miniaturas/post15.jpg"
+  "miniatura": "midia/miniaturas/post15.jpg",
+  "dur": 36.4
  },
  {
   "id": "storypost16",
@@ -854,7 +869,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Por que o céu é azul?",
-  "miniatura": "midia/miniaturas/post16.jpg"
+  "miniatura": "midia/miniaturas/post16.jpg",
+  "dur": 40.8
  },
  {
   "id": "storypost17",
@@ -919,7 +935,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Dá pra ver a Muralha da China do espaço?",
-  "miniatura": "midia/miniaturas/post17.jpg"
+  "miniatura": "midia/miniaturas/post17.jpg",
+  "dur": 41.4
  },
  {
   "id": "storypost18",
@@ -984,7 +1001,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "E se você pudesse parar o tempo?",
-  "miniatura": "midia/miniaturas/post18.jpg"
+  "miniatura": "midia/miniaturas/post18.jpg",
+  "dur": 39.7
  },
  {
   "id": "storypost19",
@@ -1049,7 +1067,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Dá pra contar até um bilhão?",
-  "miniatura": "midia/miniaturas/post19.jpg"
+  "miniatura": "midia/miniaturas/post19.jpg",
+  "dur": 29.7
  },
  {
   "id": "storypost20",
@@ -1113,7 +1132,8 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Como seria o mundo sem eletricidade?",
-  "miniatura": "midia/miniaturas/post20.jpg"
+  "miniatura": "midia/miniaturas/post20.jpg",
+  "dur": 44.0
  },
  {
   "id": "storypost21",
@@ -1148,6 +1168,7 @@
   "na_grade": false,
   "capa_ms": 500,
   "titulo": "Você prefere viver sem internet ou sem doces?",
-  "miniatura": "midia/miniaturas/post21.jpg"
+  "miniatura": "midia/miniaturas/post21.jpg",
+  "dur": 36.2
  }
 ]
