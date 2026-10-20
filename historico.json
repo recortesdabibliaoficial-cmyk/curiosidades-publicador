@@ -2119,7 +2119,7 @@
  },
  "2026-10-20": {
   "seguidores": 10,
-  "publicacoes": 15,
+  "publicacoes": 16,
   "itens": {
    "comeceaqui": {
     "reach": 0,
@@ -2435,7 +2435,7 @@
     "total_interactions": 0
    },
    "post13": {
-    "reach": 3,
+    "reach": 4,
     "views": 12,
     "likes": 1,
     "comments": 0,
@@ -2480,7 +2480,7 @@
     "total_interactions": 0
    },
    "post14": {
-    "reach": 2,
+    "reach": 3,
     "views": 10,
     "likes": 2,
     "comments": 1,
@@ -2525,7 +2525,7 @@
     "total_interactions": 0
    },
    "post15": {
-    "reach": 1,
+    "reach": 2,
     "views": 3,
     "likes": 0,
     "comments": 0,
@@ -2534,15 +2534,15 @@
     "total_interactions": 0
    },
    "reel08": {
-    "reach": 9,
-    "views": 9,
+    "reach": 11,
+    "views": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 6906,
-    "reels_skip_rate": 55.6
+    "ig_reels_avg_watch_time": 5781,
+    "reels_skip_rate": 63.6
    },
    "storypost15": {
     "reach": 0,
@@ -2552,15 +2552,15 @@
     "total_interactions": 0
    },
    "reel14": {
-    "reach": 39,
-    "views": 43,
+    "reach": 47,
+    "views": 50,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 6996,
-    "reels_skip_rate": 65
+    "ig_reels_avg_watch_time": 7460,
+    "reels_skip_rate": 63.8
    },
    "story2026-10-19": {
     "reach": 0,
@@ -2568,8 +2568,35 @@
     "replies": 0,
     "shares": 0,
     "total_interactions": 0
+   },
+   "post16": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "reel15": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0,
+    "reels_skip_rate": 0
+   },
+   "storypost16": {
+    "reach": 0,
+    "views": 0,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0
    }
   },
-  "em": "2026-10-20T11:31-03:00"
+  "em": "2026-10-20T17:36-03:00"
  }
 }
