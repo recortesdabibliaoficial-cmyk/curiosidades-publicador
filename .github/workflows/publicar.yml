@@ -1,8 +1,7 @@
 name: Publicar no Instagram
 
+# DESLIGADO em 23/10/2026: perfil @curiosidadesempapel apagado pelo Felipe.
 on:
-  schedule:
-    - cron: '*/15 * * * *'      # a cada 15 minutos (o GitHub pode atrasar alguns minutos)
   workflow_dispatch: {}          # botão "Run workflow" para rodar na hora
 
 permissions:
@@ -14,6 +13,7 @@ concurrency:
 
 jobs:
   publicar:
+    if: false                    # canal encerrado (23/10/2026)
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
